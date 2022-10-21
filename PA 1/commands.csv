@@ -1,0 +1,30 @@
+pwd$It prints the path of the working directory starting from the root
+mkdir$Allows the user to create directories. This command can create multiple directories at once
+cp$Used to copy files or group of files or directory
+scp$Used to copy file(s) between servers in a secure way
+gcc$GNU Debugger tool helps to debug the programs written in C, C++, Ada, Fortran, etc
+kill$Used to terminate processes manually. Sends a signal to a process with terminates the process
+chmod$Used to change the access mode of a file
+chown$Used to change the file owner or group
+echo$Used to display line of text/string that are passed as an argument
+find$Used to find files and directories and perform subsequent operations on them
+ls$Lists the files under the current directory
+rmdir$Used to remove empty directories from the filesystem in Linux
+mv$Used to move one or more files or directories from one place to another files system like UNIX
+man$Used to display the user manual of any command that we can run on the terminal
+make$Used to build executable programs and libraries from source code
+top$Provides a dynamic real-time view of the running system
+cat$Reads data from file and gives their content as output. It helps us to create, view, concatenate files
+df$Used to display information related to file systems about total space and available space
+exit$Used to exit the shell where it is currently running
+finger$It is a user information lookup command which gives details of all the users logged in
+cd$Known as change directory command. It is used to change current working directory
+rm$Used to remove objects such as files, directories, symbolic links and so on from the files system like UNIX
+ssh$Protocol used to securely connect to a remote server/system
+g++$Used for preprocessing compilation, assembly and linking of source code to generate an executable file
+ps$Used to list the currently running processes and their PIDs along with some other information depends on different options
+who$Used to get information about currently logged in user on to system
+alias$Instructs the shell to replace one string with another string while executing the commands
+grep$Searches a file for a particulat patter on charcters, and displays all lines that contain that pattern
+clear$Used to clear the terminal screen
+free$Displays the total amount of free space available along the amount of memory used and swap memory in the system, and also buffers used by the kernel
